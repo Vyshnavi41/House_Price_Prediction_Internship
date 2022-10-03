@@ -1,2 +1,4 @@
 # House_Price_Prediction_Internship
-House Price Prediction Using Linear Regression
+Machine Learning project made using Python to predict House prices using Linear Regression Algorithm.
+
+
